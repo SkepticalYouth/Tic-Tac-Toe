@@ -1,6 +1,6 @@
 An assignment part of the Odin Project Javascript course 
 
-#Functionalities
+# Functionalities
 - [ ] Gameboard (stored inside an object)
 - [ ] Render the contents of the gameboard array to the webpage
 - [ ] Allow players to add marks to specific spots and tie them to the DOM
@@ -10,5 +10,5 @@ An assignment part of the Odin Project Javascript course
     - [ ] Start/Restart button
     - [ ] Display element that congratulates the winner
 
-##Extra credits
+## Extra credits
 - [ ] AI
