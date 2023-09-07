@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.board-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.board{
+    display: flex;
+    width: 364.8px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 184.8px;
+}
+
+.tile{
+    display: flex;
+    width: 120px;
+    height: 60px;
+    border: dotted 0.8px;
+    justify-content: center;
+    align-items: center;
+}
